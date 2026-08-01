@@ -49,6 +49,8 @@ BIST_TICKERS = {
     "SMRTG.IS": "Smart Güneş Enerjisi",
     "TKFEN.IS": "Tekfen Holding",
     "QUAGR.IS": "Qua Granite",
+    "BETAE.IS": "Beta enerji",
+    "LILAK:IS": "Lila Kağıt",
 }
 
 BIST_INDEX_TICKER = "XU100.IS"
