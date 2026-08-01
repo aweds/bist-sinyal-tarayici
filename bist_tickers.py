@@ -47,6 +47,8 @@ BIST_TICKERS = {
     "HEKTS.IS": "Hektaş",
     "GUBRF.IS": "Gübretaş",
     "SMRTG.IS": "Smart Güneş Enerjisi",
+    "TKFEN.IS": "Tekfen Holding",
+    "QUAGR.IS": "Qua Granite",
 }
 
 BIST_INDEX_TICKER = "XU100.IS"
